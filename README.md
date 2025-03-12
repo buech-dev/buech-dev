@@ -1,9 +1,10 @@
-- 👋 Hi, I’m @buech-dev
-- 💞️ I love coding 
-- 📫 How to reach me: buech.dev@proton.me
+- 👋 Hallo, ich bin @buech-dev
+- ?? ️ Ich liebe Coding 
+- 📫 So irreichen Sie mich: buech.dev@proton.me
 
 
 <!---
-buech-dev/buech-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Buech-dev/buech-dev ist ein ✨-Spezial-✨-Repository, da dessen `README.md` (diese Datei) auf Ihrem GitHub-Profil erscheint.
+Sie können auf den Link Vorschau klicken, um einen Blick auf Ihre Regierungen zu Werfen.
+->
+![Profile Views](https://komarev.com/ghpvc/?username=buech-dev)
