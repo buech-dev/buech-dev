@@ -1,6 +1,6 @@
 - 👋 Hallo, ich bin @buech-dev
-- ?? ️ Ich liebe Coding 
-- 📫 So irreichen Sie mich: buech.dev@proton.me
+-  ️ Ich liebe Coding 
+- 📫 So erreichen Sie mich: buech.dev@proton.me
 
 
 <!---
