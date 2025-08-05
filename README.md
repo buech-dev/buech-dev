@@ -1,4 +1,4 @@
-### 👋 Willkommen auf meinem Profil! Ich bin Christopher (@buech-dev).
+### 👋 Willkommen auf meinem Profil! Ich bin Chris (@buech-dev).
 
 <p align="left">
   Ein Softwareentwickler mit einer Leidenschaft für Mobile Development und sauberen Code. Ich liebe es, Ideen in funktionierende und ansprechende Apps zu verwandeln.
