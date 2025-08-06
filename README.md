@@ -1,7 +1,7 @@
 ### 👋 Willkommen auf meinem Profil! Ich bin Chris Buechner.
 
 <p align="left">
-  Ein Softwareentwickler mit einer Leidenschaft für Mobile Development und sauberen Code. Ich liebe es, Ideen in funktionierende und ansprechende Apps zu verwandeln.
+  Ein Junior Softwareentwickler mit einer Leidenschaft für Mobile Development und sauberen Code. Ich liebe es, Ideen in funktionierende und ansprechende Apps zu verwandeln.
 </p>
 
 ---
