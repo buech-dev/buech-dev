@@ -1,45 +1,103 @@
-### 👋 Willkommen auf meinem Profil! Ich bin Chris Buechner.
+# 👋 Hallo, ich bin Christopher Büchner!
 
+Ich bin ein leidenschaftlicher Entwickler aus der **Goethestadt Bad Lauchstädt**, Sachsen-Anhalt. Mein Herz schlägt für **plattformübergreifende Apps**, **KI-gestützte Features** und **Workflow-Automatisierung**. Mit Technologien wie Flutter, Dart, Web-Technologien und n8n baue ich innovative Lösungen, die Spaß machen und Probleme lösen. 🚀
 
-<p align="left">
-Ein Junior Softwareentwickler mit einer Leidenschaft für die Verbindung von Mobile Development und modernen Web-Technologien. Ich bin fasziniert von den Möglichkeiten der künstlichen Intelligenz und nutze sie, um Ideen in funktionierende und intelligente Anwendungen zu verwandeln.
-</p>
-🚀 Woran ich arbeite
- * 🔭 Aktuell: Portfolio-App mit Flutter & Integration von Web-Komponenten
- * 🤖 Experimente: Einsatz von KI-Tools (z.B. Google AI Studio) und Automatisierung mit n8n zur Optimierung von Workflows.
- * 🌱 Lernfokus: Native iOS/Android-Integration & KI-gestützte Features
- * 📫 Kontakt: Immer erreichbar unter buech.dev@proton.me
-🛠️ Mein Tech-Stack
+## 🌟 Woran ich arbeite
+
+- **Portfolio-App mit Flutter**  
+  Entwickle eine responsive App, die meine Projekte präsentiert und Web-Komponenten integriert.  
+  - **Features**: Dynamische Inhalte über APIs, interaktive Web-Elemente (HTML/CSS/JS), KI-generierte Texte.  
+  - **Tech**: Flutter, Dart, HTML, CSS, JavaScript, VS Code (Agent Mode).  
+  - **Status**: In Entwicklung – bald hier auf GitHub!  
+
+- **KI-Experimente**  
+  Experimentiere mit **Google AI Studio**, um intelligente Features wie Textgenerierung und Datenanalyse zu integrieren.  
+  - **Beispiel**: Automatische Erstellung von Projektbeschreibungen für meine Portfolio-App.  
+  - **Tech**: Google AI Studio, JavaScript, Dart.  
+
+- **Workflow-Automatisierung mit n8n**  
+  Optimiere Prozesse durch automatisierte Workflows, die APIs, LLMs und Tools wie Slack verbinden.  
+  - **Beispiel**: Workflow, der CRM-Daten (z. B. Salesforce) abruft, mit einem LLM analysiert und Benachrichtigungen an Slack sendet.  
+  - **Tech**: n8n, JavaScript, Python, Docker (Self-Hosting).  
+
+- **Lernfokus**  
+  - Native iOS/Android-Integration mit Flutter.  
+  - KI-gestützte Features wie kontextbezogene Code-Vorschläge in VS Code.  
+  - Responsives Web-Design mit HTML, CSS und JavaScript.  
+
+## 🛠️ Mein Tech-Stack
+
+### Frontend & Mobile
 <p align="left">
 <a href="https://flutter.dev" target="_blank" rel="noreferrer">
 <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
-</a>
+</a> <strong>Flutter</strong>: Für plattformübergreifende Apps mit Hot Reload.<br>
 <a href="https://dart.dev" target="_blank" rel="noreferrer">
 <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/>
-</a>
+</a> <strong>Dart</strong>: Produktive Entwicklung mit Null-Safety.<br>
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
-</a>
+</a> <strong>HTML</strong> /
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
-</a>
+</a> <strong>CSS</strong> /
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-</a>
-<a href="https://n8n.io/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/n8n-io/n8n-io-icon.svg" alt="n8n" width="40" height="40"/>
-</a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-</a>
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
-</a>
-<a href="https://developer.android.com" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
-</a>
+</a> <strong>JavaScript</strong>: Responsive Web-Komponenten.
 </p>
 
+### Automatisierung & Tools
+<p align="left">
+<a href="https://n8n.io/" target="_blank" rel="noreferrer">
+<img src="https://www.vectorlogo.zone/logos/n8n-io/n8n-io-icon.svg" alt="n8n" width="40" height="40"/>
+</a> <strong>n8n</strong>: Workflow-Automatisierung mit Drag-and-Drop und Code.<br>
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
+</a> <strong>VS Code</strong>: Mein Editor mit AI-Unterstützung (Agent Mode).<br>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+</a> <strong>Git</strong>: Für Versionskontrolle und Teamarbeit.
+</p>
+
+### Plattformen
+<p align="left">
+<a href="https://developer.android.com" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
+</a> <strong>Android</strong>: Native Integrationen für Flutter-Apps.
+</p>
+
+## 📈 Meine Lernreise
+So verteile ich meine Zeit auf meine Projekte und Technologien:
+
+```chartjs
+{
+  "type": "pie",
+  "data": {
+    "labels": ["Flutter & Dart", "KI-Tools", "Web-Entwicklung", "Automatisierung (n8n)", "Native Integration"],
+    "datasets": [{
+      "data": [40, 25, 15, 10, 10],
+      "backgroundColor": ["#36A2EB", "#FF6384", "#FFCE56", "#4BC0C0", "#9966FF"],
+      "borderColor": ["#FFFFFF", "#FFFFFF", "#FFFFFF", "#FFFFFF", "#FFFFFF"],
+      "borderWidth": 1
+    }]
+  },
+  "options": {
+    "responsive": true,
+    "plugins": {
+      "legend": {
+        "position": "top",
+        "labels": {
+          "color": "#333333"
+        }
+      },
+      "title": {
+        "display": true,
+        "text": "Zeitverteilung meines Lernfokus",
+        "color": "#333333"
+      }
+    }
+  }
+}
 
 ### 📊 Meine GitHub-Statistiken
 
