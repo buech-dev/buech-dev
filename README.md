@@ -66,38 +66,7 @@ Ich bin ein leidenschaftlicher Entwickler aus der **Goethestadt Bad Lauchstädt*
 </a> <strong>Android</strong>: Native Integrationen für Flutter-Apps.
 </p>
 
-## 📈 Meine Lernreise
-So verteile ich meine Zeit auf meine Projekte und Technologien:
 
-```chartjs
-{
-  "type": "pie",
-  "data": {
-    "labels": ["Flutter & Dart", "KI-Tools", "Web-Entwicklung", "Automatisierung (n8n)", "Native Integration"],
-    "datasets": [{
-      "data": [40, 25, 15, 10, 10],
-      "backgroundColor": ["#36A2EB", "#FF6384", "#FFCE56", "#4BC0C0", "#9966FF"],
-      "borderColor": ["#FFFFFF", "#FFFFFF", "#FFFFFF", "#FFFFFF", "#FFFFFF"],
-      "borderWidth": 1
-    }]
-  },
-  "options": {
-    "responsive": true,
-    "plugins": {
-      "legend": {
-        "position": "top",
-        "labels": {
-          "color": "#333333"
-        }
-      },
-      "title": {
-        "display": true,
-        "text": "Zeitverteilung meines Lernfokus",
-        "color": "#333333"
-      }
-    }
-  }
-}
 
 ### 📊 Meine GitHub-Statistiken
 
