@@ -1,6 +1,6 @@
 ### 👋 Willkommen auf meinem Profil! Ich bin Chris Buechner.
 
-<Profil aussehen:
+
 <p align="left">
 Ein Junior Softwareentwickler mit einer Leidenschaft für die Verbindung von Mobile Development und modernen Web-Technologien. Ich bin fasziniert von den Möglichkeiten der künstlichen Intelligenz und nutze sie, um Ideen in funktionierende und intelligente Anwendungen zu verwandeln.
 </p>
@@ -39,6 +39,8 @@ Ein Junior Softwareentwickler mit einer Leidenschaft für die Verbindung von Mob
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
 </a>
 </p>
+
+
 ### 📊 Meine GitHub-Statistiken
 
 <p align="center">
