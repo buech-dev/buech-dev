@@ -5,7 +5,7 @@ Ich bin ein leidenschaftlicher Entwickler aus der **Goethestadt Bad Lauchstädt*
 ## 🌟 Woran ich arbeite
 
 - **Portfolio-App mit Flutter**  
-  Entwickle eine responsive App, die meine Projekte präsentiert und Web-Komponenten integriert.  
+   Eine responsive App, die meine Projekte präsentiert und Web-Komponenten integriert.  
   - **Features**: Dynamische Inhalte über APIs, interaktive Web-Elemente (HTML/CSS/JS), KI-generierte Texte.  
   - **Tech**: Flutter, Dart, HTML, CSS, JavaScript, VS Code (Agent Mode).  
   - **Status**: In Entwicklung – bald hier auf GitHub!  
