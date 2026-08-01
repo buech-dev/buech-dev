@@ -15,3 +15,17 @@ Es gibt hier keinen Anwendungscode, kein Build-System, kein Package-Manifest und
 - Die README bindet externe Badge-/Statistik-Bilder ein (github-readme-stats.vercel.app, komarev.com) sowie Icons von devicon/vectorlogo.zone; diese sind extern verlinkt, nicht im Repository gespeichert.
 - Änderungen auf Deutsch verfassen, passend zum bestehenden Ton und emoji-reichen Stil, sofern nicht anders gewünscht.
 - Da diese Seite öffentlich sichtbar ist, jede inhaltliche Änderung als für alle Besucher des GitHub-Profils sichtbar behandeln.
+
+## Agent skills
+
+### Issue tracker
+
+Issues werden als GitHub Issues in `buech-dev/buech-dev` getrackt (über die `gh`-CLI). Siehe `docs/agents/issue-tracker.md`.
+
+### Triage labels
+
+Standard-Label-Vokabular: `needs-triage`, `needs-info`, `ready-for-agent`, `ready-for-human`, `wontfix`. Siehe `docs/agents/triage-labels.md`.
+
+### Domain docs
+
+Single-context-Layout (`CONTEXT.md` + `docs/adr/` im Repo-Root, werden bei Bedarf angelegt). Siehe `docs/agents/domain.md`.
