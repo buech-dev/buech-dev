@@ -2,16 +2,16 @@
 
 This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
 
-## Repository purpose
+## Zweck des Repositories
 
-This is `buech-dev/buech-dev` — a GitHub **profile README repository**. Repos named exactly after their owner's username are special-cased by GitHub: the `README.md` at the root is rendered directly on the owner's public profile page (github.com/buech-dev).
+Dies ist `buech-dev/buech-dev` — ein GitHub-**Profil-README-Repository**. Repositories, die exakt wie der Benutzername ihres Besitzers heißen, werden von GitHub speziell behandelt: Die `README.md` im Root-Verzeichnis wird direkt auf der öffentlichen Profilseite des Besitzers angezeigt (github.com/buech-dev).
 
-There is no application code, build system, package manifest, or test suite here. The entire repository consists of a single file, `README.md`, written in German, that describes the author (Christopher Büchner) and his tech stack.
+Es gibt hier keinen Anwendungscode, kein Build-System, kein Package-Manifest und keine Testsuite. Das gesamte Repository besteht aus einer einzigen Datei, `README.md`, auf Deutsch verfasst, die den Autor (Christopher Büchner) und seinen Tech-Stack beschreibt.
 
-## Working in this repository
+## Arbeiten in diesem Repository
 
-- The only meaningful content to edit is `README.md`.
-- There are no build, lint, or test commands — changes are just Markdown/HTML edits rendered by GitHub.
-- The README embeds external badge/stat images (github-readme-stats.vercel.app, komarev.com) and devicon/vectorlogo.zone icons; these are hotlinked, not stored in the repo.
-- Keep edits in German, matching the existing tone and emoji-heavy style, unless the user asks otherwise.
-- Since this page is public-facing, treat any content change as visible to anyone viewing the GitHub profile.
+- Die einzige inhaltlich relevante Datei zum Bearbeiten ist `README.md`.
+- Es gibt keine Build-, Lint- oder Testbefehle — Änderungen sind reine Markdown/HTML-Edits, die von GitHub gerendert werden.
+- Die README bindet externe Badge-/Statistik-Bilder ein (github-readme-stats.vercel.app, komarev.com) sowie Icons von devicon/vectorlogo.zone; diese sind extern verlinkt, nicht im Repository gespeichert.
+- Änderungen auf Deutsch verfassen, passend zum bestehenden Ton und emoji-reichen Stil, sofern nicht anders gewünscht.
+- Da diese Seite öffentlich sichtbar ist, jede inhaltliche Änderung als für alle Besucher des GitHub-Profils sichtbar behandeln.
